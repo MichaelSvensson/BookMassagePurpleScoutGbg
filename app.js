@@ -13,7 +13,6 @@ import { WebClient } from '@slack/web-api';
 */
 import { createEventAdapter } from '@slack/events-api';
 
-// const signingSecret =  "1ecd2572bd0657bbb07ac59e1fa3350d";
 // Declaration environment variabels
 // A Node app that uses the Events API would initialize a listener for events using the following code:
 // Listen on messages from the slack channel
